@@ -1,0 +1,1 @@
+dimension des portfolioItemContent > logo > img = 404x191 px
