@@ -43,6 +43,11 @@ body {
     margin-top: 2rem;
 }
 
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 /* tonavbar */
 .navBar {
     width: 100%;
@@ -126,13 +131,13 @@ body {
     margin-bottom: 2rem;
 }
 
-.portfolioItemContent .subtitle {
+.portfolioItemContent .subtitle a {
     transition: 1s;
     font-weight: 700;
     color: transparent;
 }
 
-.portfolioItemContent:hover .subtitle {
+.portfolioItemContent:hover .subtitle a {
     color: #f31d58;
     font-weight: 700;
 }
