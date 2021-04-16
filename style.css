@@ -209,6 +209,7 @@ footer p {
 .container404 {
     width: 100%;
     height: 100vh;
+    color: #f31d58;
     display: flex;
     flex-direction: column;
     justify-content: center;
